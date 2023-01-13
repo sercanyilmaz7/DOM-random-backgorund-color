@@ -10,7 +10,7 @@ body {
 }
 
 button {
-  width: 20vh;
+  width: 30vh;
   height: 5vh;
   font-size: 1.5rem;
   border: none;
@@ -18,7 +18,7 @@ button {
 }
 
 p {
-  width: 20vh;
+  width: 30vh;
   height: fit-content;
   font-size: 1.5rem;
   text-align: center;
